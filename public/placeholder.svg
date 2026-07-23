@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0021"/>
+      <stop offset="55%" stop-color="#2a0037"/>
+      <stop offset="100%" stop-color="#5b1e4a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect width="800" height="450" fill="url(#grid)"/>
+  <circle cx="640" cy="110" r="130" fill="#ff0099" fill-opacity="0.12"/>
+  <text x="400" y="238" text-anchor="middle" font-family="ui-monospace, monospace" font-size="30" fill="#ffffff" fill-opacity="0.55" letter-spacing="6">PROJECT</text>
+</svg>
