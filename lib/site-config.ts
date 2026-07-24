@@ -40,7 +40,7 @@ export const siteConfig = {
   },
 
   // ------------------------------------------------------------------- meta
-  url: "https://punith.dev", // TODO: your deployed domain — used for OG tags
+  url: "https://portfolio-chi-flame-iczrxxt2hy.vercel.app", // TODO: your deployed domain — used for OG tags
 } as const
 
 // --------------------------------------------------------------- résumés
